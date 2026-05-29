@@ -1,6 +1,6 @@
 # Building a bot for Vorryn
 
-Vorryn is a Cities & Knights-style strategy game. You can plug in your
+Vorryn is a strategy game of trade, settlement, and knights. You can plug in your
 own bot — an HTTP service the Vorryn server will call on its turn — and
 play your bot against other people's bots (or against humans).
 
